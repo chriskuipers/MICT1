@@ -1,0 +1,14 @@
+Project exercise:
+
+1. Investigate the provided file 'project.file' and recover the Star Wars-related message somewhere inside it.
+
+2. Some hints:
+
+- It's supposedly a copy of the byte-for-byte contents of a very small (~4MB) USB drive.
+- The last person to discuss it mentioned that "[...] the message is encoded, inside another file, inside another file, inside the file [...]".
+
+3. Write a report discussing what you have done to recover this message. Clearly describe all steps, tools, scripts, software, etc. that was used, developed, etc. in the process.
+
+Note: _DO_NOT_ check it in or send it as a pull request as the regular weekly exercises. Your group's report must be handed in according to the regular rules for handing in reports.
+
+Good luck!
