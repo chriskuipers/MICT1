@@ -1,0 +1,16 @@
+Exercise for week 3:
+
+1. Investigate the provided files 'f_z.data' and 'e_r.data'.
+
+2. Extract and organize (part of) the provided data so that they can be interpreted as valid media files.
+
+3. Make a small report describing:
+
+ - What you found
+ - Where you found it (locations, spans, etc.)
+ - How you found it. What tools? Include source, screenshots, howto's, etc.
+
+Put the report in the /exercises/week3/yourgroupname directory in the repo and
+send it in as a Pull Request on Github.
+
+Good luck!
