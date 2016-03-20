@@ -1,0 +1,22 @@
+Exercise for week 4:
+
+1. Have a look at how the Lego Nexo Knights work with toys, videos and the
+Merlok 2.0 app. For example, install the app and scan a couple of Nexo powers
+to get a feel for how it works.
+
+2. Try to understand how the information on the shields is encoded, form some
+ideas, come up with ways to test your ideas and perform those tests.
+
+3. Make a small report describing:
+
+ - What your understanding is of how those Nexo powers work (how they are
+   scanned, etc.)
+ - Describe your ideas and experiments on reverse engineering the storage/
+   encoding scheme used
+ - Include results of your attempts to reverse engineer and discover how it
+   works
+
+Put the report in the /exercises/week5/yourgroupname directory in the repo and
+send it in as a Pull Request on Github.
+
+Good luck!

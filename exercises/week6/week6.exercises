@@ -1,0 +1,18 @@
+Exercise for week 4:
+
+1. Investigate the provided file 'file6' and recover the message hidden
+   somewhere inside it
+
+2. See if you can find some usable files that could have been in either RAM-
+   and/or Disk-slack.
+
+3. Make a small report describing:
+
+ - What you found
+ - Where you found it (locations, spans, etc.)
+ - How you found it. What tools? Include source, screenshots, howto's, etc.
+
+Put the report in the /exercises/week6/yourgroupname directory in the repo
+and send it in as a Pull Request on Github.
+
+Good luck!
