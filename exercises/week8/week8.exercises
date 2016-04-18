@@ -1,0 +1,21 @@
+Exercise for week 8:
+
+1. Investigate the provided files 'source.png', 'source.zif' and 'modified.zif'.
+
+ZIF is a new file format (Zuyd Image Format) which is unfortunately not docu-
+mented. For reference, both files with the name "source" contain the same image.
+One as PNG and one as ZIF. The remaining file is a modified version of the same
+image with an additional message inside it.
+
+2. Figure out the ZIF file format and recover the message in modified.zif.
+
+3. Make a small report describing:
+
+ - The ZIF file format.
+ - How you reverse engineered it, what tools did you use?
+ - What is the hidden message in modified.zif?
+
+Put the report in the /exercises/week8/yourgroupname directory in the repo
+and send it in as a Pull Request on Github.
+
+Good luck!
